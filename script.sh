@@ -4,4 +4,6 @@ whoami
 ifconfig
 ls
 
+echo Hello world
+
 #git bash - windows
