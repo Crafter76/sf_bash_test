@@ -10,4 +10,6 @@ make && make install
 
 sudo apt update && sudo apt uprade
 
+echo tralala >> file123
+
 #git bash - windows
